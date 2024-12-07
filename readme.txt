@@ -1,6 +1,10 @@
 Batch B2
 A Novel Deep Learning Approach for Classification of Eye Diseases using Fundus Images
 
+Datasets link:
+https://drive.google.com/file/d/1FoNDiWvtLekU77dvyUknc6gDVF5F8s9Q/view?usp=drive_link
+# Add shortcut to mydrive and add that path in code while execution
+
 Procedure:
 1)Input Processing
 Fundus RGB images are taken as input and converted into feature maps through the
